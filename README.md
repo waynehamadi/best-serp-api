@@ -1,6 +1,6 @@
 # What is the best SERP API in 2026?
 
-We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,594 providers of 170 kinds of API.
+We are Datacircle, at [datacircle.dev](https://datacircle.dev). We gave the same tests to 1,595 providers of 170 kinds of API.
 
 SearchApi ranks first in our benchmark, with an Overall score of 52.5 out of 100. SearchApi scores 74 out of 100 for accuracy. SearchApi's plan "$500 monthly, Scale Plan" costs $2.00 per 1,000 searches. We rank 102 providers. We last tested them on 2026-11-22.
 
